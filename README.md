@@ -157,7 +157,3 @@ Copyright (c) 2026 Atlassian. Licensed under the Apache License, Version 2.0.
 
 - **Issues**: [GitHub Issues](https://github.com/atlassian-labs/api-playground/issues)
 - **Forge Docs**: [developer.atlassian.com/platform/forge](https://developer.atlassian.com/platform/forge/)
-
----
-
-*Built with ❤️ by [Atlassian Labs](https://github.com/atlassian-labs)*
